@@ -1,4 +1,4 @@
-package com.example.xico.myapplication;
+package com.example.xico.ammcp;
 
 /**
  * Created by Xico on 24/05/2018.
